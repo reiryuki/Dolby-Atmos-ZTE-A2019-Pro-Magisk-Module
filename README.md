@@ -3,6 +3,9 @@
 ## Descriptions
 An EQ ported from Razer Phone 2 (bolt)
 
+## Tested on
+- Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
+
 ## Requirements
 - Android 9, 10, or 11 devices
 - Magisk installed
