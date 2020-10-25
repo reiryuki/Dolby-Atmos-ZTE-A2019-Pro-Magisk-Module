@@ -1,7 +1,7 @@
 # Dolby Atmos ZTE A2019 Pro Magisk Module
 
 ## Descriptions
-An EQ ported from Razer Phone 2 (bolt)
+An EQ ported from ZTE A2019 Pro
 
 ## Tested on
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
