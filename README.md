@@ -26,5 +26,9 @@ An EQ ported from Razer Phone 2 (bolt)
 - If Dolby force close, just reinstall again.
 - Make sure manifest.xml is patched correctly.
 
+## Attention!
+Reporting without proper logs is ignored!
+
+
 
            - Enjoy the Atmos 🎧 -
