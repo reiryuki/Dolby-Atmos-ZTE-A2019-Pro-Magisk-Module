@@ -9,6 +9,7 @@ An EQ ported from ZTE A2019 Pro (p845a02)
 ## Requirements
 - Android 9, 10, or 11 devices
 - Magisk installed
+- If you can install and open this [app](https://t.me/audioryukimods/24) normally, you are good to go.
 - Don't use with another Dolby module!
 
 ## Installation Guide
