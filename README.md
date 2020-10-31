@@ -20,11 +20,11 @@ An EQ ported from ZTE A2019 Pro (p845a02)
 ## Optional
 - AML 4.0 supported
 - ACDB supported (Android 10 and bellow only for now)
-- Use Audio Compatibility Patch if you encounter processing problem
 
 ## Troubleshooting
 - If Dolby force close, just reinstall again
 - Make sure manifest.xml is patched correctly
+- Use Audio Compatibility Patch if you encounter processing problem
 
 ## Attention!
 Reporting without sending full logcats and magisk install logs is ignored!
