@@ -29,8 +29,7 @@
 - Bass enhancer boost is modified in v1.2 and up. If you don't like it, just rename dax-default.orig to dax-default.xml.
 
 ## Attention!
-Reporting without sending full logcats and magisk install logs is ignored!
-https://play.google.com/store/apps/details?id=com.dp.logcatapp
+- Reporting without sending full logcats and magisk install logs is ignored! https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 ## Credits
 - dolby_dax.jar recompiled by @aip_x
