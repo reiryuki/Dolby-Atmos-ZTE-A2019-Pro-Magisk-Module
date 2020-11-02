@@ -1,7 +1,8 @@
 # Dolby Atmos ZTE A2019 Pro Magisk Module
 
 ## Descriptions
-An EQ ported from ZTE A2019 Pro (P845A02)
+- An EQ ported from ZTE A2019 Pro (P845A02)
+- Requires standard Android signature to grant android.permission.INTERACT_ACROSS_USERS_FULL
 
 ## Tested on
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
