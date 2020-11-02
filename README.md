@@ -32,6 +32,9 @@
 Reporting without sending full logcats and magisk install logs is ignored!
 https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
+## Credits
+- dolby_dax.jar recompiled by @aip_x
+
 
 
 
