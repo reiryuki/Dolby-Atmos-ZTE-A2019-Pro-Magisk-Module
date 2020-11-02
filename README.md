@@ -8,7 +8,7 @@
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
 
 ## Requirements
-- Android 8, 9, 10, or 11 64 bit devices
+- Android 9, 10, or 11 64 bit devices
 - Magisk installed
 - Don't use with another Dolby module!
 
