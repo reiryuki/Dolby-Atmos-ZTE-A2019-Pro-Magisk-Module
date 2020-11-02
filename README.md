@@ -1,7 +1,7 @@
 # Dolby Atmos ZTE A2019 Pro Magisk Module
 
 ## Descriptions
-An EQ ported from ZTE A2019 Pro (p845a02)
+An EQ ported from ZTE A2019 Pro (P845A02)
 
 ## Tested on
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
@@ -25,6 +25,7 @@ An EQ ported from ZTE A2019 Pro (p845a02)
 - If Dolby force close, just reinstall again
 - Make sure manifest.xml is patched correctly
 - Use Audio Compatibility Patch if you encounter processing problem
+- Bass enhancer boost is modified in v1.2 and up. If you don't like it, just rename dax-default.orig to dax-default.xml.
 
 ## Attention!
 Reporting without sending full logcats and magisk install logs is ignored!
