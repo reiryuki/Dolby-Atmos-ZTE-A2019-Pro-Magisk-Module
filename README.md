@@ -10,6 +10,7 @@
 ## Requirements
 - Android 9, 10, or 11 64 bit devices
 - Magisk installed
+- Pass this [Signature Test App](https://t.me/audioryukimods/24)
 - Don't use with another Dolby module!
 
 ## Installation Guide
