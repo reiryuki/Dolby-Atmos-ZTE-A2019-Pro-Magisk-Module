@@ -11,7 +11,7 @@
 - Android 9, 10, or 11 64 bit devices
 - Magisk installed
 - Pass this [Signature Test App](https://t.me/audioryukimods/24)
-- - If doesn't pass, by using APKTool PC, resign daxService.apk using your device framework platform keys.
+- If doesn't pass, by using APKTool PC, resign daxService.apk using your device framework platform keys.
 
 ## Installation Guide
 - Remove another Dolby module
