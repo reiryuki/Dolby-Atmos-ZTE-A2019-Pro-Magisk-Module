@@ -8,7 +8,8 @@
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
 
 ## Requirements
-- Android 9, 10, or 11 64 bit devices
+- Android 9, 10, or 11
+- 64 bit
 - Magisk installed
 - Pass this [Signature Test App](https://t.me/audioryukimods/24)
 - If doesn't pass, by using APKTool PC, resign daxService.apk using your device framework platform keys.
@@ -20,14 +21,19 @@
 - Reboot
 
 ## Optional
-- AML 4.0 supported
-- ACDB supported (Android 10 and bellow only for now)
+- If using multiple audio mods, use one of these, don't use both:
+  - AML 4.0 supported
+  - ACDB supported (Android 10 and bellow only for now)
+- You can rename dax-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAudio/system/vendor/etc/dolby/
 
 ## Troubleshooting
+- If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
+  Run at Terminal Emulator before flash:
+  - `su`
+  - `setprop dolby.force.permissive 1`
 - If Dolby force close, just reinstall again
 - Make sure manifest.xml is patched correctly
 - Use Audio Compatibility Patch if you encounter processing problem
-- Bass enhancer boost is modified in v1.2 and up. If you don't like it, just rename dax-default.orig to dax-default.xml.
 
 ## Attention!
 - Reporting without sending full logcats and magisk install logs is ignored! https://play.google.com/store/apps/details?id=com.dp.logcatapp
