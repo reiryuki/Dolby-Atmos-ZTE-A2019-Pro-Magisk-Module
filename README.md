@@ -22,7 +22,7 @@
 - If using multiple audio mods, use one of these, don't use both:
   - AML 4.0 supported
   - ACDB supported (Android 10 and bellow only for now)
-- You can rename dax-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/
+- You can rename dax-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. This is only affected on Music mode and Movie speaker mode. 
 
 ## Troubleshooting
 - If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
