@@ -11,8 +11,6 @@
 - Android 9, 10, or 11
 - 64 bit
 - Magisk installed
-- Pass this [Signature Test App](https://t.me/audioryukimods/24)
-- If doesn't pass, by using APKTool PC, resign daxService.apk using your device framework platform keys. Or, use RC1 instead, it is same.
 
 ## Installation Guide
 - Remove another Dolby module
@@ -39,6 +37,7 @@
 - Reporting without sending full logcats and magisk install logs is ignored! https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 ## Credits
+- All people that helped and tested my modules
 - dolby_dax.jar recompiled by @aip_x
 
 
