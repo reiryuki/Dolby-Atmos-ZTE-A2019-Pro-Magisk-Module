@@ -40,6 +40,13 @@
 - All people that helped and tested my modules
 - dolby_dax.jar recompiled by @aip_x
 
+## Groups discussion
+- https://t.me/joinchat/E-On6U9cxckhIlAnoPIYpw
+- https://t.me/@modsandco
+
+## Donate
+- https://www.paypal.me/reiryuki
+
 
 
 
